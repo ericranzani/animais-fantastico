@@ -11,6 +11,7 @@
     "rules": {
       "no-param-reassign": 0,
       "import/extensions": 0,
+      "max-classes-per-file": false,
       "no-console": 0
     }
 }
