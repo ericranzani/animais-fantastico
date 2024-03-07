@@ -7,5 +7,3 @@ Link do projeto - https://ericranzani.github.io/animais-fantastico/?
 
 ## Screenshot
 
-![App Screenshot](../../Eric/animais-fantasticos.PNG)
-
